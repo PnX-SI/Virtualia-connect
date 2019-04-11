@@ -1,0 +1,8 @@
+[Desktop Entry]
+Comment=Connexion à Virtualia
+Terminal=false
+Name=Virtualia
+Exec=env VIRTUALIA_NOM=TON_NOM env VIRTUALIA_PRENOM=ton_prenom env VIRTUALIA_PASSWORD=mot_de_passe python3.6 /home/trimaille/dev/virtualia/badge.py
+Type=Application
+Icon=/home/trimaille/dev/virtualia/virtualia.gif
+Categories=Utility
